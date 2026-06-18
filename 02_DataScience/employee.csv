@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Region,Salary,Bonus,Experience
+101,John,IT,East,5000,500,3
+102,Sara,HR,West,4500,450,5
+103,Mike,IT,East,6000,600,7
+104,Emma,HR,North,4000,,2
+105,David,Finance,South,5500,550,4
+106,Lisa,IT,West,,700,6
+107,Tom,Finance,South,7000,700,10
+108,Anna,HR,East,4800,,3
+109,Chris,IT,North,6200,620,8
+110,Sophia,Finance,West,5300,530,
